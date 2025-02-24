@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello👋%20J.K.%20World%20!&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jua&size=28&pause=1000&color=D8DEE4&vCenter=true&width=615&lines=%F0%9F%9A%80+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9E%85%EB%8B%88%EB%8B%A4.+%F0%9F%9A%80" alt="Typing SVG" /></a></h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jua&size=28&pause=1000&color=D8DEE4&vCenter=true&width=750&lines=%F0%9F%9A%80+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9E%85%EB%8B%88%EB%8B%A4.+%F0%9F%9A%80" alt="Typing SVG" /></a></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"><h5>📚 새로운 기술을 배우고 탐구하는 것을 좋아합니다.</h5><h5>💡 다양한 사람들과 협업하며 성장하고 싶습니다.</h5></div> 
     </div>
     <div align= "center">
