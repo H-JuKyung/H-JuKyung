@@ -1,30 +1,40 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello👋%20J.K.%20World%20!&animation=fadeIn&fontColor=000000&fontSize=70" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jua&size=28&pause=1000&color=D8DEE4&vCenter=true&width=800&lines=%F0%9F%9A%80+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B8%B0+%EC%9C%84%ED%95%B4+%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4.+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"><h4>📚 새로운 기술을 배우고 탐구하는 것을 좋아합니다.</h4><h4>💡 다양한 사람들과 협업하며 성장하고 싶습니다.</h4></div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Learning 🛠️</h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          </div><div></div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Contact me 💻</h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/wn._rud__dl/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/wn._rud__dl/"> </a>
-         <a href=mailto:hjk000hjk17@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hjk000hjk17@gmail.com"> </a>
-          </div> 
-    </div>
+<!-- 소개 헤더 -->
+<h1 align="left">Hello <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="50" height="50"/>  J.K World !</h1>
+
+<!-- 간단 소개 -->
+<p align="left">
+- 프론트엔드 개발자를 꿈꾸며 끊임없이 배우고 성장하고 있습니다.<br />
+- 협업을 통해 더 나은 제품과 경험을 만들어가는 것을 좋아합니다.
+</p>
+
+<br/>
+
+<!-- 기술 스택 -->
+<h2 align="left"><img src="https://www.emojiall.com/images/240/telegram/telemoji-november-2023/1f9f0.gif" width="30" height="30"/> Tech Stack</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,bootstrap,git" alt="Tech Stack" />
+  </a>
+</p>
+
+<br/>
+
+<!-- GitHub Statistics -->
+<h2 align="left"><img src="https://www.emojiall.com/images/240/telegram/telemoji-november-2023/1f4ca.gif" width="35" height="30"/> GitHub Stats</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=H-JuKyung&show_icons=true&theme=holi" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-JuKyung&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" width="400" alt="Top Languages" />
+</p>
+
+<br/>
+
+<!-- 3D 잔디 -->
+<h2 align="left"><img src="https://www.emojiall.com/images/120/skype/1.2/1f331.png" width="30" height="30"/> GitHub Contributions</h2>
+<p align="left">
+  <img src="profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contribution Graph" />
+</p>
+
     
 <!--
 **H-JuKyung/H-JuKyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
