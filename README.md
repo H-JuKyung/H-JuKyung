@@ -26,15 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=H-JuKyung&show_icons=true&theme=holi" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-JuKyung&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" width="400" alt="Top Languages" />
 </p>
-
-<br/>
-
-<!-- 3D 잔디 -->
-<h2 align="left"><img src="https://www.emojiall.com/images/120/skype/1.2/1f331.png" width="30" height="30"/> GitHub Contributions</h2>
-<p align="left">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contribution Graph" />
-</p>
-
     
 <!--
 **H-JuKyung/H-JuKyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
