@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,bootstrap,git" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,git" alt="Tech Stack" />
   </a>
 </p>
 
