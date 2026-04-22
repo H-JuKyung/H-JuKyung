@@ -30,7 +30,7 @@
 <br/>
  
  <!-- 3D 잔디 -->
- <h2 align="left"><img src="https://www.emojiall.com/images/120/skype/1.2/1f331.png" width="30" height="30"/> GitHub Contributions</h2>
+ <h2 align="left"><img src="https://www.emojiall.com/images/240/telegram/telemoji-november-2023/1f331.gif" width="30" height="30"/> GitHub Contributions</h2>
  <p align="left">
    <img src="profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contribution Graph" />
  </p>
