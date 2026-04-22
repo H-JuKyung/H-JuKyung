@@ -1,5 +1,5 @@
 <!-- 소개 헤더 -->
-<h1 align="left">Hello <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="50" height="50"/>  J.K World !</h1>
+<h1 align="left">Hello <img src="https://www.emojiall.com/images/120/microsoft-teams/15.0/1f44b.png" width="50" position: relative;"/> J.K World !</h1>
 
 <!-- 간단 소개 -->
 <p align="left">
